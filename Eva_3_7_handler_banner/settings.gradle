@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Eva_3_7_handler_banner"
